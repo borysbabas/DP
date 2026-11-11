@@ -1,6 +1,6 @@
 # Don't Play!
 
-![Thumbnail](https://raw.githubusercontent.com/Raadfxrd/DP-school/refs/heads/main/src/web/wwwroot/public/assets/img/logo.png)
+![Thumbnail](https://raw.githubusercontent.com/borysbabas/DP-school/refs/heads/main/src/web/wwwroot/public/assets/img/logo.png)
 
 **Don't Play!** is a vibrant and modern webshop designed to captivate and engage users from the moment they land on the site. With a sleek and playful design, **Don't Play!** combines functionality with aesthetics, making shopping an enjoyable experience.  
 
